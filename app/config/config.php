@@ -6,6 +6,6 @@
     define('URLROOT', 'http://localhost:8888/php_mvc');
 
     // Site Name
-    define('SITENAME', 'PHP_MVC');
+    define('SITENAME', 'PHP MVC');
 
 ?>
